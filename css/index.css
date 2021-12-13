@@ -189,7 +189,7 @@
     border-color: gray;
     padding-bottom: 1%;
     padding-right: 2%;
-    margin-left: 1%;
+    margin-left: 0.5%;
    
 }
 #icon_sub { 
@@ -205,4 +205,7 @@
     left:-14.99%;
     z-index: 9999;
     height: 100%;
+}
+#cole{
+  padding-right: 5px;
 }
