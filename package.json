@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@progress/kendo-theme-bootstrap": "^4.43.0",
+    "mdb-ui-kit": "^3.10.1"
+  }
+}
